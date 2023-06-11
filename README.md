@@ -54,5 +54,5 @@ Movies table: id: integer title: string year: integer description: string user_i
 Conclusion
 The Movie Finder application is a basic web application that allows users to share information about movies. It has been built using React for the frontend and Sinatra for the backend. The application implements the MVPs that were required for the project, and also incorporates authentication and authorization measures to ensure that users are only able to perform actions that they are authorized to perform.
 
-Author : 
-github : 
+Author : Ronnie Kibuye
+github : https://github.com/Ronkibet
